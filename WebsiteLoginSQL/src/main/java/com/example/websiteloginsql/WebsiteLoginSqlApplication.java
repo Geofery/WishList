@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class WebsiteLoginSqlApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(WebsiteLoginSqlApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(WebsiteLoginSqlApplication.class, args);
+  }
 
 }

@@ -1,4 +1,4 @@
-package needName;
+package com.example.demo.needName;
 
 /**
  * @author roed
@@ -14,7 +14,9 @@ public class User {
     this.password = password;
   }
 
-  public User() {
+  public User(String email, String password) {
+    this.email = email;
+    this.password = password;
   }
 
   public String getName() {
@@ -39,5 +41,11 @@ public class User {
 
   public void setPassword(String password) {
     this.password = password;
+  }
+
+  @Override
+  public String toString() {
+    return name + " Email: " + email +
+        " Password: " + password;
   }
 }

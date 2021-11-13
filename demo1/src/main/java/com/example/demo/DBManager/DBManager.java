@@ -1,4 +1,4 @@
-package com.uiproject_go_green.controller.DBManager;
+package com.example.demo.DBManager;
 
 import java.io.FileInputStream;
 import java.io.IOException;
