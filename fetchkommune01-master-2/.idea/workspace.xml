@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="decb9947-a963-4788-b254-2658bc0e7e4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../planitCopy/CodeLab/src/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../planitCopy/CodeLab/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoGreen/UI_Project_Go_Green" beforeDir="false" afterPath="$PROJECT_DIR$/../GoGreen/UI_Project_Go_Green" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labyrinth" beforeDir="false" afterPath="$PROJECT_DIR$/../Labyrinth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stash/SwimClub" beforeDir="false" afterPath="$PROJECT_DIR$/../Stash/SwimClub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stash/SwimClub problems with UI" beforeDir="false" afterPath="$PROJECT_DIR$/../Stash/SwimClub problems with UI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwimClub" beforeDir="false" afterPath="$PROJECT_DIR$/../SwimClub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo" beforeDir="false" afterPath="$PROJECT_DIR$/../demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25p4CvGCAzjn0XUtiKVCMxU6NGR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="decb9947-a963-4788-b254-2658bc0e7e4d" name="Changes" comment="" />
+      <created>1646210569782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646210569782</updated>
+      <workItem from="1646210571380" duration="444000" />
+      <workItem from="1646211131151" duration="127000" />
+      <workItem from="1646211292011" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
