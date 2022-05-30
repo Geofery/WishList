@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d67fbd3b-c437-448d-98aa-bc6ed65d14b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../24timers-restApi/src/main/java/com/eksamen/restapi/RestApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eksamen-webapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restapi/src/main/java/com/eksamen/restapi/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restapi/src/main/java/com/eksamen/restapi/model/TestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restapi/src/main/java/com/eksamen/restapi/repository/MainRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restapi/src/main/java/com/eksamen/restapi/service/MainService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restapi/src/main/java/com/eksamen/restapi/service/impl/MainServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoGreen/UI_Project_Go_Green" beforeDir="false" afterPath="$PROJECT_DIR$/../GoGreen/UI_Project_Go_Green" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labyrinth" beforeDir="false" afterPath="$PROJECT_DIR$/../Labyrinth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MariosPizzabar" beforeDir="false" afterPath="$PROJECT_DIR$/../MariosPizzabar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stash/SwimClub" beforeDir="false" afterPath="$PROJECT_DIR$/../Stash/SwimClub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stash/SwimClub problems with UI" beforeDir="false" afterPath="$PROJECT_DIR$/../Stash/SwimClub problems with UI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwimClub" beforeDir="false" afterPath="$PROJECT_DIR$/../SwimClub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo" beforeDir="false" afterPath="$PROJECT_DIR$/../demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29qFa1xFosNVrFuFIX6xiSe6BnL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d67fbd3b-c437-448d-98aa-bc6ed65d14b0" name="Changes" comment="" />
+      <created>1653832771129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653832771129</updated>
+      <workItem from="1653832773797" duration="772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
